@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Socialater]]></title>
+        <description><![CDATA[Socialater]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 21 Feb 2016 07:56:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Social Media Marketing]]></title>
+            <description><![CDATA[<article><h1>Social Media Marketing</h1><p>Social Media Marketing (#SMM) - the promotion of your business via Facebook & Twitter to boost your online presence.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6bb24d4f0f66b01e5965ae67d1c58a50500e193a.jpg"></article>]]></description>
+            <link>undefinedsocial-media-marketing/index.html</link>
+            <guid isPermaLink="false">3d6ca68d-5582-49fd-a2e3-a06319adb643</guid>
+            <pubDate>Sun, 21 Feb 2016 07:55:43 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
